@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Allan D'arc ??
+## Bem-vindo(a) ao perfil do Allan D'arc!
 
 <div>
 <a href="https://github.com/AllanDarc">
